@@ -232,7 +232,7 @@ nav {
 @media (max-width: 720px) {
     .hero-wrapper { padding: 2rem var(--pad); }
     .hero { flex-direction: column; gap: 1.5rem; }
-    .hero-photo { flex: unset; }
+    .hero-photo { flex: unset; width: fit-content; }
     .hero-photo img { width: 160px; }
     .section-row { flex-direction: column; gap: 0.75rem; }
     .section-label { flex: unset; font-size: 1.6rem; }

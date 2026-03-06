@@ -31,9 +31,8 @@ const papers = {
             info: "Quarterly Journal of Economics, 135(3), 1209-1318, 2020.",
             abstract: "We conduct a comparative welfare analysis of 133 historical policy changes over the past half-century in the United States, focusing on policies in social insurance, education and job training, taxes and cash transfers, and in-kind transfers. For each policy, we use existing causal estimates to calculate the benefit that each policy provides its recipients (measured as their willingness to pay) and the policy's net cost, inclusive of long-term effects on the government's budget. We divide the willingness to pay by the net cost to the government to form each policy's Marginal Value of Public Funds, or its \"MVPF\". Comparing MVPFs across policies provides a unified method of assessing their effect on social welfare. Our results suggest that direct investments in low-income children's health and education have historically had the highest MVPFs, on average exceeding 5. Many such policies have paid for themselves as the government recouped the cost of their initial expenditures through additional taxes collected and reduced transfers. We find large MVPFs for education and health policies among children of all ages, rather than observing diminishing marginal returns throughout childhood. We find smaller MVPFs for policies targeting adults, generally between 0.5 and 2. Expenditures on adults have exceeded this MVPF range in particular if they induced large spillovers on children. We relate our estimates to existing theories of optimal government policy, and we discuss how the MVPF provides lessons for the design of future research.",
             links: [
-                { label: "Paper",               href: "assets/MVPF_Mar_2020_QJE.pdf" },
-                { label: "Appendix",            href: "assets/MVPF_Appendix.pdf" },
-                { label: "Interactive Website", href: "https://migrationpatterns.org" }
+                { label: "Paper",    href: "assets/MVPF_Mar_2020_QJE.pdf" },
+                { label: "Appendix", href: "assets/MVPF_Appendix.pdf" }
             ]
         }
     ],
@@ -64,7 +63,8 @@ const papers = {
             info: "<em>Center for Economic Studies Working Paper Series, US Census Bureau, CES-22-27</em>",
             abstract: "We examine the geographic incidence of local labor market growth across locations of childhood residence. We ask: when wages grow in a given US labor market, do the benefits flow to individuals growing up in nearby or distant locations? We begin by constructing new statistics on migration rates across labor markets between childhood and young adulthood. This migration matrix shows 80% of young adults migrate less than 100 miles from where they grew up. 90% migrate less than 500 miles. Migration distances are shorter for Black and Hispanic individuals and for those from low-income families. These migration patterns provide information on the first order geographic incidence of local wage growth. Next, we explore the responsiveness of location choices to economic shocks. Using geographic variation induced by the recovery from the Great Recession, we estimate the elasticity of migration with respect to increases in local labor market wage growth. We find that higher wages lead to increased in-migration, decreased out-migration and a partial capitalization of wage increases into local prices. Our results imply that for a 2 rank point increase in annual wages (approximately $1,600) in a given commuting zone, approximately 99% of wage gains flow to those who would have resided in the CZ in the absence of the wage change. The geographically concentrated nature of most migration and the small magnitude of these migration elasticities suggest that the incidence of labor market conditions across childhood residences is highly local. For many individuals, the \"radius of economic opportunity\" is quite narrow.",
             links: [
-                { label: "Paper", href: "assets/Migration_vSI.pdf" }
+                { label: "Paper",               href: "assets/Migration_vSI.pdf" },
+                { label: "Interactive Website", href: "https://migrationpatterns.org" }
             ]
         }
     ],
@@ -88,7 +88,7 @@ function renderPapers(containerId, paperList) {
 
     container.innerHTML = paperList.map(p => {
         const linksHtml = p.links.map(l =>
-            `<a href="${l.href}" target="_blank">${l.label}</a>`
+            `<a href="${l.href}" target="_blank" rel="noopener noreferrer">${l.label}</a>`
         ).join(' ');
 
         const abstractHtml = p.abstract
