@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research — Ben Sprung-Keyser</title>
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Google Analytics: replace G-Y0RXYJHFS9 with your Measurement ID from analytics.google.com -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y0RXYJHFS9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-Y0RXYJHFS9');
+    </script>
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav>
+        <div class="nav-inner">
+            <a href="index.html" class="nav-brand">Ben Sprung-Keyser</a>
+            <div class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="research.html" class="active">Research</a>
+                <a href="assets/CV_BSK.pdf" target="_blank">CV</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Publications -->
+    <div class="section-row research-top">
+        <h2 class="section-label">Publications</h2>
+        <div class="papers-list" id="research-publications"></div>
+    </div>
+
+    <!-- Working Papers -->
+    <div class="section-row">
+        <h2 class="section-label">Working Papers</h2>
+        <div class="papers-list" id="research-working-papers"></div>
+    </div>
+
+    <!-- Notes -->
+    <div class="section-row">
+        <h2 class="section-label">Notes</h2>
+        <div class="papers-list" id="research-notes"></div>
+    </div>
+
+    <div class="page-end"></div>
+
+    <script src="js/papers.js"></script>
+    <script>
+        renderPapers('research-publications',   papers.publications);
+        renderPapers('research-working-papers',  papers.workingPapers);
+        renderPapers('research-notes',           papers.notes);
+    </script>
+
+</body>
+</html>

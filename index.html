@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ben Sprung-Keyser</title>
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Google Analytics: replace G-Y0RXYJHFS9 with your Measurement ID from analytics.google.com -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y0RXYJHFS9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-Y0RXYJHFS9');
+    </script>
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav>
+        <div class="nav-inner">
+            <a href="index.html" class="nav-brand">Ben Sprung-Keyser</a>
+            <div class="nav-links">
+                <a href="index.html" class="active">Home</a>
+                <a href="research.html">Research</a>
+                <a href="assets/CV_BSK.pdf" target="_blank">CV</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero -->
+    <div class="hero-wrapper">
+        <section class="hero">
+            <div class="hero-photo">
+                <img src="assets/profile-photo.jpeg" alt="Ben Sprung-Keyser">
+                <p class="hero-email">
+                    <a href="mailto:bsprungk@wharton.upenn.edu">bsprungk@wharton.upenn.edu</a>
+                </p>
+            </div>
+            <div class="hero-info">
+                <h1>Ben Sprung-Keyser</h1>
+                <div class="title-block">
+                    <p class="title-line">Assistant Professor</p>
+                    <p class="title-line">Business Economics and Public Policy</p>
+                    <p class="title-line">Wharton School</p>
+                    <p class="title-line">University of Pennsylvania</p>
+                </div>
+                <p class="bio">
+                    I am an assistant professor in the Business Economics and Public Policy (BEPP) group
+                    at the Wharton School at the University of Pennsylvania. My research is in the fields
+                    of public economics and labor economics. I am a co-director at
+                    <a href="https://policyimpacts.org" target="_blank">Policy Impacts</a>.
+                    I received a PhD in Economics from Harvard.
+                </p>
+            </div>
+        </section>
+    </div>
+
+    <!-- Publications -->
+    <div class="section-row">
+        <h2 class="section-label">Publications</h2>
+        <div class="papers-list" id="home-publications"></div>
+    </div>
+
+    <!-- Working Papers -->
+    <div class="section-row">
+        <h2 class="section-label">Working Papers</h2>
+        <div class="papers-list" id="home-working-papers"></div>
+    </div>
+
+    <div class="page-end"></div>
+
+    <script src="js/papers.js"></script>
+    <script>
+        renderPapers('home-publications',    papers.publications);
+        renderPapers('home-working-papers',  papers.workingPapers);
+    </script>
+
+</body>
+</html>
