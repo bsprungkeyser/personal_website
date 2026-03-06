@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Pages -->
+  <url>
+    <loc>https://bsprungkeyser.com/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://bsprungkeyser.com/research.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- CV -->
+  <url>
+    <loc>https://bsprungkeyser.com/assets/CV_BSK.pdf</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Publications -->
+  <url>
+    <loc>https://bsprungkeyser.com/assets/MVPF_Climate_Policy_AER_Draft.pdf</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bsprungkeyser.com/assets/MVPF_Climate_Policy_AER_Appendix.pdf</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bsprungkeyser.com/assets/MVPF_Climate_Exec_Summary.pdf</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bsprungkeyser.com/assets/Tax_Audits_BHSKS.pdf</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bsprungkeyser.com/assets/Tax_Audits_Appendix.pdf</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bsprungkeyser.com/assets/audits_executive_summary.pdf</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bsprungkeyser.com/assets/MVPF_Mar_2020_QJE.pdf</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bsprungkeyser.com/assets/MVPF_Appendix.pdf</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Working Papers -->
+  <url>
+    <loc>https://bsprungkeyser.com/assets/BSK_JMP_Linked.pdf</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bsprungkeyser.com/assets/GSK_Capital_Gains_Resubmission%20(2).pdf</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bsprungkeyser.com/assets/Appendix_GSK_Capital_Gains_Resubmission.pdf</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bsprungkeyser.com/assets/Migration_vSI.pdf</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Notes -->
+  <url>
+    <loc>https://bsprungkeyser.com/assets/MVPF_Case_vFinal.pdf</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>

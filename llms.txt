@@ -1,0 +1,85 @@
+# Ben Sprung-Keyser
+
+Economist
+Assistant Professor, Business Economics and Public Policy
+The Wharton School, University of Pennsylvania
+
+Email: bsprungk@wharton.upenn.edu
+Website: https://bsprungkeyser.com
+
+Research fields: public economics, labor economics.
+Co-director at Policy Impacts (https://policyimpacts.org).
+PhD in Economics, Harvard University.
+
+---
+
+## Publications
+
+### A Welfare Analysis of Policies Impacting Climate Change
+Authors: Robert Hahn, Nathaniel Hendren, Robert Metcalfe, Ben Sprung-Keyser
+Journal: Forthcoming, American Economic Review
+Paper: https://bsprungkeyser.com/assets/MVPF_Climate_Policy_AER_Draft.pdf
+Appendix: https://bsprungkeyser.com/assets/MVPF_Climate_Policy_AER_Appendix.pdf
+Executive Summary: https://bsprungkeyser.com/assets/MVPF_Climate_Exec_Summary.pdf
+
+We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide.
+
+### A Welfare Analysis of Tax Audits Across the Income Distribution
+Authors: William C. Boning, Nathaniel Hendren, Ben Sprung-Keyser, Ellen Stuart
+Journal: Quarterly Journal of Economics, 140(1), 63-112, 2025
+Paper: https://bsprungkeyser.com/assets/Tax_Audits_BHSKS.pdf
+Appendix: https://bsprungkeyser.com/assets/Tax_Audits_Appendix.pdf
+Executive Summary: https://bsprungkeyser.com/assets/audits_executive_summary.pdf
+
+We estimate the returns to IRS audits of taxpayers across the income distribution. We find an additional $1 spent auditing taxpayers above the 90th income percentile yields more than $12 in revenue, while audits of below-median income taxpayers yield $5. We construct our estimates by drawing from comprehensive internal accounting information and audit-level enforcement logs.
+
+### A Unified Welfare Analysis of Government Policies
+Authors: Nathaniel Hendren, Ben Sprung-Keyser
+Journal: Quarterly Journal of Economics, 135(3), 1209-1318, 2020
+Paper: https://bsprungkeyser.com/assets/MVPF_Mar_2020_QJE.pdf
+Appendix: https://bsprungkeyser.com/assets/MVPF_Appendix.pdf
+
+We conduct a comparative welfare analysis of 133 historical policy changes over the past half-century in the United States, focusing on policies in social insurance, education and job training, taxes and cash transfers, and in-kind transfers. For each policy, we use existing causal estimates to calculate the benefit that each policy provides its recipients and the policy's net cost, inclusive of long-term effects on the government's budget.
+
+---
+
+## Working Papers
+
+### The Economic Geography of Lifecycle Human Capital Accumulation: The Competing Effects of Labor Markets and Childhood Environments
+Authors: Ben Sprung-Keyser, Sonya Porter
+Status: Job Market Paper
+Paper: https://bsprungkeyser.com/assets/BSK_JMP_Linked.pdf
+
+We examine how place shapes the production of human capital across the lifecycle. We ask: do those places that most effectively produce human capital in childhood also have local labor markets that do so in adulthood? We find there is a tradeoff between those places that most effectively produce human capital in childhood and the local labor markets that do so in adulthood. Each 1-rank increase in earnings due to adult labor market exposure trades off with a 0.43 rank decrease in earnings due to the local childhood environment.
+
+### State Taxes, Migration, and Capital Gains Realizations
+Authors: Lucas Goodman, Ben Sprung-Keyser
+Status: Revision Requested, AEJ:Policy
+Paper: https://bsprungkeyser.com/assets/GSK_Capital_Gains_Resubmission%20(2).pdf
+Appendix: https://bsprungkeyser.com/assets/Appendix_GSK_Capital_Gains_Resubmission.pdf
+
+We analyze the impact of state capital gains taxes on migration and realization. We find the probability of migrating to a zero-tax state before realization rises with potential tax savings. Savings in zero-tax states drive $2 billion in annual realizations by former residents of positive-tax states.
+
+### The Radius of Economic Opportunity: Evidence from Migration and Local Labor Markets
+Authors: Ben Sprung-Keyser, Nathaniel Hendren, Sonya Porter
+Status: Center for Economic Studies Working Paper Series, US Census Bureau, CES-22-27
+Paper: https://bsprungkeyser.com/assets/Migration_vSI.pdf
+
+We examine the geographic incidence of local labor market growth across locations of childhood residence. Our results imply that for a 2 rank point increase in annual wages in a given commuting zone, approximately 99% of wage gains flow to those who would have resided in the CZ in the absence of the wage change. For many individuals, the "radius of economic opportunity" is quite narrow.
+
+---
+
+## Notes
+
+### The Case for Using the MVPF in Empirical Welfare Analysis
+Authors: Nathaniel Hendren, Ben Sprung-Keyser
+Status: NBER Working Paper, No. 30029
+Paper: https://bsprungkeyser.com/assets/MVPF_Case_vFinal.pdf
+
+This paper outlines the case for using the Marginal Value of Public Funds (MVPF) in empirical welfare analysis. It compares the MVPF approach with more traditional welfare metrics such as the Cost-Benefit Ratio and the Net Social Benefits criterion.
+
+---
+
+## CV
+
+https://bsprungkeyser.com/assets/CV_BSK.pdf
