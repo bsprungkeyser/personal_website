@@ -46,10 +46,10 @@ We conduct a comparative welfare analysis of 133 historical policy changes over 
 
 ## Working Papers
 
-### The Economic Geography of Lifecycle Human Capital Accumulation: The Competing Effects of Labor Markets and Childhood Environments
+### The Geography of Lifecycle Human Capital Accumulation
 Authors: Ben Sprung-Keyser, Sonya Porter
 Status: Job Market Paper
-Paper: https://bsprungkeyser.com/assets/BSK_JMP_Linked.pdf
+Paper: https://bsprungkeyser.com/assets/Geography_Human_Capital_Sprung-Keyser_Porter_May_2026.pdf
 
 We examine how place shapes the production of human capital across the lifecycle. We ask: do those places that most effectively produce human capital in childhood also have local labor markets that do so in adulthood? We find there is a tradeoff between those places that most effectively produce human capital in childhood and the local labor markets that do so in adulthood. Each 1-rank increase in earnings due to adult labor market exposure trades off with a 0.43 rank decrease in earnings due to the local childhood environment.
 
