@@ -50,7 +50,6 @@ const papers = {
         {
             title: "State Taxes, Migration, and Capital Gains Realizations",
             authors: "Lucas Goodman and Ben Sprung-Keyser",
-            info: "Revision Requested, <em>AEJ:Policy</em>",
             abstract: "We analyze the impact of state capital gains taxes on migration and realization. We find the probability of migrating to a zero-tax state before realization rises with potential tax savings. Exploiting individual-level variation in tax savings, we use a dynamic discrete choice model to quantify the behavioral effects of state capital gains taxes. Savings in zero-tax states drive $2 billion in annual realizations by former residents of positive-tax states. Reducing top rates would decrease avoidance by out-migrants, but the fiscal externalities are below 3% of the mechanical cost. These effects are driven by changing migration rather than retiming existing moves.",
             links: [
                 { label: "Paper",    href: "assets/GSK_Capital_Gains_Resubmission%20(2).pdf" },
@@ -102,7 +101,7 @@ function renderPapers(containerId, paperList) {
             <div class="paper">
                 <p class="paper-title">${p.title}</p>
                 <p class="paper-authors">${p.authors}</p>
-                <p class="paper-info">${p.info}</p>
+                ${p.info ? `<p class="paper-info">${p.info}</p>` : ''}
                 <p class="paper-links">${linksHtml}</p>
                 ${abstractHtml}
             </div>`;
