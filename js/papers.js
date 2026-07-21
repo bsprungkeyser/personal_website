@@ -6,7 +6,7 @@ const papers = {
         {
             title: "A Welfare Analysis of Policies Impacting Climate Change",
             authors: "Robert Hahn, Nathaniel Hendren, Robert Metcalfe and Ben Sprung-Keyser",
-            info: "Forthcoming, <em>American Economic Review</em>",
+            info: "<em>American Economic Review</em>, 116(7), 2368-2421, 2026.",
             abstract: "We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide.",
             links: [
                 { label: "Paper",             href: "assets/MVPF_Climate_Policy_AER_Draft.pdf" },
