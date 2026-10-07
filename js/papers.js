@@ -48,15 +48,6 @@ const papers = {
             ]
         },
         {
-            title: "State Taxes, Migration, and Capital Gains Realizations",
-            authors: "Lucas Goodman and Ben Sprung-Keyser",
-            abstract: "We analyze the impact of state capital gains taxes on migration and realization. We find the probability of migrating to a zero-tax state before realization rises with potential tax savings. Exploiting individual-level variation in tax savings, we use a dynamic discrete choice model to quantify the behavioral effects of state capital gains taxes. Savings in zero-tax states drive $2 billion in annual realizations by former residents of positive-tax states. Reducing top rates would decrease avoidance by out-migrants, but the fiscal externalities are below 3% of the mechanical cost. These effects are driven by changing migration rather than retiming existing moves.",
-            links: [
-                { label: "Paper",    href: "assets/GSK_Capital_Gains_Resubmission%20(2).pdf" },
-                { label: "Appendix", href: "assets/Appendix_GSK_Capital_Gains_Resubmission.pdf" }
-            ]
-        },
-        {
             title: "The Radius of Economic Opportunity: Evidence from Migration and Local Labor Markets",
             authors: "Ben Sprung-Keyser, Nathaniel Hendren, and Sonya Porter",
             info: "<em>Center for Economic Studies Working Paper Series, US Census Bureau, CES-22-27</em>",
@@ -64,6 +55,15 @@ const papers = {
             links: [
                 { label: "Paper",               href: "assets/Migration_vSI.pdf" },
                 { label: "Interactive Website", href: "https://migrationpatterns.org" }
+            ]
+        },
+        {
+            title: "State Taxes, Migration, and Capital Gains Realizations",
+            authors: "Lucas Goodman and Ben Sprung-Keyser",
+            abstract: "We analyze the impact of state capital gains taxes on migration and realization. We find the probability of migrating to a zero-tax state before realization rises with potential tax savings. Exploiting individual-level variation in tax savings, we use a dynamic discrete choice model to quantify the behavioral effects of state capital gains taxes. Savings in zero-tax states drive $2 billion in annual realizations by former residents of positive-tax states. Reducing top rates would decrease avoidance by out-migrants, but the fiscal externalities are below 3% of the mechanical cost. These effects are driven by changing migration rather than retiming existing moves.",
+            links: [
+                { label: "Paper",    href: "assets/GSK_Capital_Gains_Resubmission%20(2).pdf" },
+                { label: "Appendix", href: "assets/Appendix_GSK_Capital_Gains_Resubmission.pdf" }
             ]
         }
     ],

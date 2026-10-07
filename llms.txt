@@ -53,19 +53,19 @@ Paper: https://bsprungkeyser.com/assets/Geography_Human_Capital_Sprung-Keyser_Po
 
 We examine how place shapes the production of human capital across the lifecycle. We ask: do those places that most effectively produce human capital in childhood also have local labor markets that do so in adulthood? We find there is a tradeoff between those places that most effectively produce human capital in childhood and the local labor markets that do so in adulthood. Each 1-rank increase in earnings due to adult labor market exposure trades off with a 0.5 rank decrease in earnings due to the local childhood environment.
 
-### State Taxes, Migration, and Capital Gains Realizations
-Authors: Lucas Goodman, Ben Sprung-Keyser
-Paper: https://bsprungkeyser.com/assets/GSK_Capital_Gains_Resubmission%20(2).pdf
-Appendix: https://bsprungkeyser.com/assets/Appendix_GSK_Capital_Gains_Resubmission.pdf
-
-We analyze the impact of state capital gains taxes on migration and realization. We find the probability of migrating to a zero-tax state before realization rises with potential tax savings. Savings in zero-tax states drive $2 billion in annual realizations by former residents of positive-tax states.
-
 ### The Radius of Economic Opportunity: Evidence from Migration and Local Labor Markets
 Authors: Ben Sprung-Keyser, Nathaniel Hendren, Sonya Porter
 Status: Center for Economic Studies Working Paper Series, US Census Bureau, CES-22-27
 Paper: https://bsprungkeyser.com/assets/Migration_vSI.pdf
 
 We examine the geographic incidence of local labor market growth across locations of childhood residence. Our results imply that for a 2 rank point increase in annual wages in a given commuting zone, approximately 99% of wage gains flow to those who would have resided in the CZ in the absence of the wage change. For many individuals, the "radius of economic opportunity" is quite narrow.
+
+### State Taxes, Migration, and Capital Gains Realizations
+Authors: Lucas Goodman, Ben Sprung-Keyser
+Paper: https://bsprungkeyser.com/assets/GSK_Capital_Gains_Resubmission%20(2).pdf
+Appendix: https://bsprungkeyser.com/assets/Appendix_GSK_Capital_Gains_Resubmission.pdf
+
+We analyze the impact of state capital gains taxes on migration and realization. We find the probability of migrating to a zero-tax state before realization rises with potential tax savings. Savings in zero-tax states drive $2 billion in annual realizations by former residents of positive-tax states.
 
 ---
 
